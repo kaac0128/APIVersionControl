@@ -1,0 +1,15 @@
+C:\Users\KAAC1\Documents\.net aprendizaje\APIVersionControl\WjwmploFlujoAsync\bin\Debug\net6.0\WjwmploFlujoAsync.exe
+C:\Users\KAAC1\Documents\.net aprendizaje\APIVersionControl\WjwmploFlujoAsync\bin\Debug\net6.0\WjwmploFlujoAsync.deps.json
+C:\Users\KAAC1\Documents\.net aprendizaje\APIVersionControl\WjwmploFlujoAsync\bin\Debug\net6.0\WjwmploFlujoAsync.runtimeconfig.json
+C:\Users\KAAC1\Documents\.net aprendizaje\APIVersionControl\WjwmploFlujoAsync\bin\Debug\net6.0\WjwmploFlujoAsync.dll
+C:\Users\KAAC1\Documents\.net aprendizaje\APIVersionControl\WjwmploFlujoAsync\bin\Debug\net6.0\WjwmploFlujoAsync.pdb
+C:\Users\KAAC1\Documents\.net aprendizaje\APIVersionControl\WjwmploFlujoAsync\obj\Debug\net6.0\WjwmploFlujoAsync.csproj.AssemblyReference.cache
+C:\Users\KAAC1\Documents\.net aprendizaje\APIVersionControl\WjwmploFlujoAsync\obj\Debug\net6.0\WjwmploFlujoAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAAC1\Documents\.net aprendizaje\APIVersionControl\WjwmploFlujoAsync\obj\Debug\net6.0\WjwmploFlujoAsync.AssemblyInfoInputs.cache
+C:\Users\KAAC1\Documents\.net aprendizaje\APIVersionControl\WjwmploFlujoAsync\obj\Debug\net6.0\WjwmploFlujoAsync.AssemblyInfo.cs
+C:\Users\KAAC1\Documents\.net aprendizaje\APIVersionControl\WjwmploFlujoAsync\obj\Debug\net6.0\WjwmploFlujoAsync.csproj.CoreCompileInputs.cache
+C:\Users\KAAC1\Documents\.net aprendizaje\APIVersionControl\WjwmploFlujoAsync\obj\Debug\net6.0\WjwmploFlujoAsync.dll
+C:\Users\KAAC1\Documents\.net aprendizaje\APIVersionControl\WjwmploFlujoAsync\obj\Debug\net6.0\refint\WjwmploFlujoAsync.dll
+C:\Users\KAAC1\Documents\.net aprendizaje\APIVersionControl\WjwmploFlujoAsync\obj\Debug\net6.0\WjwmploFlujoAsync.pdb
+C:\Users\KAAC1\Documents\.net aprendizaje\APIVersionControl\WjwmploFlujoAsync\obj\Debug\net6.0\WjwmploFlujoAsync.genruntimeconfig.cache
+C:\Users\KAAC1\Documents\.net aprendizaje\APIVersionControl\WjwmploFlujoAsync\obj\Debug\net6.0\ref\WjwmploFlujoAsync.dll
